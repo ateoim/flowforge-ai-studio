@@ -2,6 +2,8 @@
 
 FlowForge is a browser-based, dark-first visual workflow studio for designing, validating, and executing Directed Acyclic Graph (DAG) AI automation pipelines. It combines a custom zero-dependency SVG+HTML node-graph editor with a deterministic execution engine supporting topological scheduling, conditional branch routing, mustache variable interpolation, configurable retries, fault injection, and dead-letter telemetry.
 
+![FlowForge Visual DAG AI Workflow Studio](./docs/screenshot-desktop.png)
+
 ## Architecture
 
 ```mermaid
